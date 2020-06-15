@@ -1,3 +1,4 @@
+
 @font-face {
   font-family: Delima;
   src: url(../font/Delimax.ttf);
@@ -5,6 +6,9 @@
 @font-face {
   font-family:CrackedCode;
   src: url(../font/CrackedCode.ttf);
+}
+body {
+  background: white;
 }
 .logo_txt{
     font-family: CrackedCode;

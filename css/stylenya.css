@@ -149,10 +149,7 @@ a.active,a:hover {
 }
 @import url('textanimatetyping.css');
 
-body{
-  /*padding: 40px;*/
-  background-color: #121212;  
-}
+
 
 .typewriter {
   border-right: transparent;
