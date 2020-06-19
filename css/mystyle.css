@@ -13,7 +13,6 @@ body {
 .logo_txt{
     font-family: CrackedCode;
     font-weight: lighter;
-    font-size: 24pt;
 }
 
 .welcome{
@@ -21,7 +20,7 @@ body {
     text-align: center;
     font-weight: bold;
     font-size: 28pt;
-    margin-top: 100px;
+    margin-top: 50px;
     margin-bottom: 50px;
 }
 .judul{
@@ -148,13 +147,7 @@ body {
     float: left;
     width: 99.6%;
   }
-  .mycard{
-  /*border: 1px #eee solid;*/
-    min-height: 80px;
-    font-size: 12pt;
-    padding: 20px;
-    /*box-shadow: 9px 7px 19px #dcd6d6;*/
-  }
+  
 
 .cardimg{
   width: 30%;
