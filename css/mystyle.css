@@ -31,23 +31,6 @@ body {
   margin-top: 100px;
   margin-bottom: 50px;
 }
-.carousel {
-    position: relative;
-    height: 600px;
-}
-.carousel-inner {
-    margin-left: 1%;
-    height: 600px;
-}
-.carousel-caption{
-	margin-bottom: 5%;
-}
-.carousel-control.left{
-	background: none !important;
-}
-.carousel-control.right{
-	background: none !important;
-}
 
   .row{
     width: 100%;
@@ -183,6 +166,7 @@ body {
   border-radius: 5%;
   float: right;
   margin-right: 30px;
+  margin-top: 22px;
 }
 .cardimg-left img{
    height: 250px;
