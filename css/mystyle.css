@@ -41,12 +41,12 @@ body {
     background-color: transparent;  
   }
   .footer{
-    clear: both;
+    /*clear: both;*/
     background: #333333;
-    padding-top: 18px;
+    padding-top: 20px;
     width: 100%;
     background-color: #333333;
-    height: 210px;
+    height: 280px;
     color: white;
   }
 
